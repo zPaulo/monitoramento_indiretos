@@ -2,7 +2,7 @@ import pytest
 from monitoramento_indiretos.core.config import settings
 
 
-endpoint = "/api/v1/auth"
+endpoint = "/api/v1/login"
 
 
 @pytest.mark.asyncio
